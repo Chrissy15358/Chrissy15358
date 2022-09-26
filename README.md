@@ -2,4 +2,4 @@
 
 ---
 
-[![Chrissy15358's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chrissy15358)](https://github.com/Chrissy15358/github-readme-stats)
+![Chrissy15358's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chrissy15358&show_icons=true&theme=tokyonight)
