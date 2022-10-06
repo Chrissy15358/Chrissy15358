@@ -12,8 +12,8 @@
 </a></p>
 
 <p align="center"><a href="https://wakatime.com">
-  <img align="center" width="400" height="300" src="https://wakatime.com/share/@Chrissy15358/8015afd9-b32f-49ad-8d75-444896b7b194.png" />
+  <img align="center" width="400" height="300" src="https://wakatime.com/share/@Chrissy15358/7321c1c1-f016-4469-86fb-7cc1c0642fc1.png" />
   </a>
 <a href="https://wakatime.com">
-  <img align="center" width="400" height="300" src="https://wakatime.com/share/@Chrissy15358/43339ee4-ca37-4418-bbea-729eb5b368b2.png" />
+  <img align="center" width="400" height="300" src="https://wakatime.com/share/@Chrissy15358/544b334b-483b-4207-9743-3310961b7ae4.png" />
 </a></p>
