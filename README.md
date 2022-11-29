@@ -1,7 +1,7 @@
 # Hi there, I'm Chrissy - aka [Chrissy15358]👋
 ---
 <p align="center"><a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" width="600" src="https://github-readme-stats.vercel.app/api?username=Chrissy15358&show_icons=true&theme=tokyonight&count_private=true" />
+  <img align="center" width="800" src="https://github-readme-stats.vercel.app/api?username=Chrissy15358&show_icons=true&theme=tokyonight&count_private=true" />
 </a></p>
 
 <p align="center"><a href="https://wakatime.com">
