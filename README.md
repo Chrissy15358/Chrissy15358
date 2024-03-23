@@ -14,10 +14,11 @@
 <p align="center"><a href="https://wakatime.com">
   <img align="center" width="400" height="300" src="https://wakatime.com/share/@Chrissy15358/7321c1c1-f016-4469-86fb-7cc1c0642fc1.png" />
   </a>
-<a href="https://wakatime.com">
-  <img align="center" width="400" height="300" src="https://wakatime.com/share/@Chrissy15358/544b334b-483b-4207-9743-3310961b7ae4.png" />
-</a></p>
+</p>
 
 <a href="https://wakatime.com">
   <img align="center" width="400" height="300" src="https://wakatime.com/share/@Chrissy15358/d9fb4cd5-027d-490c-a964-cfc1ac9cd7c8.png" />
-</a></p>V
+</a>
+<a href="https://wakatime.com">
+  <img align="center" width="400" height="300" src="https://wakatime.com/share/@Chrissy15358/544b334b-483b-4207-9743-3310961b7ae4.png" />
+</a>
